@@ -7,11 +7,10 @@ body {
   border-radius: 50%;
 }
 
-.carousel-item-settings {
-  max-height: 40rem;
-}
-
 .carousel-item-settings img {
-  max-height: 40rem;
   object-fit: scale-down;
+  width: auto;
+  height: 45rem;
+  max-height: 45rem;
+  background-color: gray;
 }
