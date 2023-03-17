@@ -1,0 +1,16 @@
+body {
+  background-color: #98d7dc;
+}
+
+.logo-color {
+  background-color: yellow;
+  border-radius: 50%;
+}
+
+.carousel-item-settings img {
+  object-fit: scale-down;
+  width: auto;
+  height: 45rem;
+  max-height: 45rem;
+  background-color: gray;
+}
